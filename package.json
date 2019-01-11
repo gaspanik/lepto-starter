@@ -1,0 +1,16 @@
+{
+  "name": "lepto-starter",
+  "version": "1.0.0",
+  "description": "Image optimization w/ lepto",
+  "main": "index.js",
+  "scripts": {
+    "setup": "lepto setup",
+    "start": "lepto -c lepto.config.json"
+  },
+  "keywords": [],
+  "author": "Masaaki Komori",
+  "license": "ISC",
+  "devDependencies": {
+    "lepto-cli": "^1.2.0"
+  }
+}
